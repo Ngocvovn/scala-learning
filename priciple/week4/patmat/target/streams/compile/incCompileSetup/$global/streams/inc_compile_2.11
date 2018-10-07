@@ -1,0 +1,439 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+22 items
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/common/package$.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/common/package.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$2.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$3.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$2.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Main$$anonfun$4$$anonfun$apply$1.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Main$$anonfun$4$$anonfun$apply$2.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Main$$anonfun$4.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Main$$anonfun$isSafe$1.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Main$.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Main$delayedInit$body.class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Main.class
+binary dependencies:
+4 items
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> /Users/ngocvo/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ngocvo/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+22 items
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> common.package
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> common.package$
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$1
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$2
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$3
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$times$1
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$times$2
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Main
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Main$
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Main$$anonfun$4
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Main$$anonfun$4$$anonfun$apply$1
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Main$$anonfun$4$$anonfun$apply$2
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Main$$anonfun$isSafe$1
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Main$delayedInit$body
+used names:
+224 items
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> ::
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> <init>
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> <repeated>
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> ?0
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> A
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> Any
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> AnyRef
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> B
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> Boolean
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> Class
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> File
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> FileInputStream
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> Function2
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> InputStream
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> List
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> None
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> Nothing
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> Object
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> Option
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> Predef
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> Some
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> String
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> URI
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> URL
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> _root_
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> child
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> children
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> classesDir
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> common
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> exists
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> file
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> foldLeft
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> getClass
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> getParentFile
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> getResource
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> io
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> java
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> package
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> projectDir
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> resourceFile
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> resourcePath
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> scala
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> subFile
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> toURI
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> !=
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> &&
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> +
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> -
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> ::
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> :::
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> <=
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> <init>
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> <repeated>
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> ==
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> A
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> A1
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Any
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> AnyRef
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> App
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> B
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Bit
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Boolean
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> C
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> CanBuildFrom
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Char
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> CodeTable
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> CodeTree
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Coll
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> FilterMonadic
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Fork
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Function1
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Function2
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> GenIterable
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> GenSeq
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> GenTraversableOnce
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Huffman
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Inclusive
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> IndexOutOfBoundsException
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> IndexedSeq
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Int
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Iterator
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> K
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Leaf
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> List
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Main
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Map
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> MatchError
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Nil
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> None
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Nothing
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Object
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Predef
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Product
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Range
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> RichInt
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Serializable
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Set
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Some
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Statics
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> String
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> StringOps
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> T
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> T0
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> T1
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> T2
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> T3
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> T4
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> That
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Tuple2
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Tuple4
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> Unit
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> _1
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> _2
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> _root_
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> _toString
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> a
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> abits
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> abs
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> anyHash
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> apply
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> as
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> augmentString
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> b
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> bbits
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> bits
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> bs
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> by
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> c
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> ca
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> canBuildFrom
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> cb
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> char
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> chars
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> codeBits
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> codeTable
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> col
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> combine
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> common
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> contains
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> convert
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> cs
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> curText
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> decode
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> encode
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> encodeInner
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> eq
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> findAllChars
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> flatMap
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> forall
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> frenchCode
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> freqs
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> get
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> groupBy
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> head
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> helper
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> i
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> immutable
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> insertOrderList
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> intWrapper
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> isEmpty
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> isSafe
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> k
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> left
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> length
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> lengthCompare
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> list
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> makeCodeTree
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> map
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> mapValues
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> math
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> mergeCodeTables
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> mix
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> n
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> ne
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> package
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> placeQueens
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> println
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> queens
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> queensWithRow
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> r
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> right
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> rootTree
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> row
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> runtime
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> s
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> scala
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> secret
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> set
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> singleList
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> singleton
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> size
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> sortWith
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> sorted
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> str
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> t
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> table
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> tail
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> text
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> times
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> to
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> toInt
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> toList
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> toString
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> tree
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> trees
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> unapplySeq
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> unary_!
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> union
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> until
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> weight
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> withFilter
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> x
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> xs
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> zip
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> ||
+product stamps:
+22 items
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1533995825000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/common/package$.class -> lastModified(1533995825000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/common/package.class -> lastModified(1533995825000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class -> lastModified(1534188629000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$2.class -> lastModified(1534188629000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$3.class -> lastModified(1534188629000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class -> lastModified(1534188629000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$2.class -> lastModified(1534188629000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1534188629000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1534188629000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1534188629000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1534188629000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1534188629000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1534188629000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1534188629000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Main$$anonfun$4$$anonfun$apply$1.class -> lastModified(1534188630000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Main$$anonfun$4$$anonfun$apply$2.class -> lastModified(1534188630000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Main$$anonfun$4.class -> lastModified(1534188630000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Main$$anonfun$isSafe$1.class -> lastModified(1534188630000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Main$.class -> lastModified(1534188629000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Main$delayedInit$body.class -> lastModified(1534188630000)
+/Users/ngocvo/scala/priciple/week4/patmat/target/scala-2.11/classes/patmat/Main.class -> lastModified(1534188629000)
+source stamps:
+2 items
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> hash(23854d13b0390aac522bac6b4da395c6871cab34)
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> hash(2f81988e1ae0321ca2dd990c34eaf7d1b530c3ee)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1504666619000)
+/Users/ngocvo/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/ngocvo/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> scala.Product
+internal apis:
+2 items
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwB2GhlgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyb4xfHQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAMg3y8U3QACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM8o3wU3QABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAwIl7qqdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyNdORTdAAIZmluYWxpemVzcQB+AAxU1D+IdAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB8dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAADQW55c3EAfgB0c3EAfgB3dXEAfgB6AAAAAnNxAH4AfHQABXNjYWxhcQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWUpRqj6dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQjhU0TsDkKrFIrrGtNo5XGhxyrNA==
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwwn91zgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABGc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw0wQmd3QABm5vdGlmeXNxAH4ADOPjQIN0AAxtYWtlQ29kZVRyZWVzcQB+AAww19/AdAAGc2VjcmV0c3EAfgAM+eYOCXQAB3VuYXBwbHlzcQB+AAx14PmEdAAGZW5jb2Rlc3EAfgAMYbD+jXQABndlaWdodHNxAH4ADHtAd9p0AAdjdXJyaWVkc3EAfgAM+S38pXQABHdhaXRzcQB+AAw/TF2FdAAOY29weSRkZWZhdWx0JDJzcQB+AAzslsOSdAANJGFzSW5zdGFuY2VPZnNxAH4ADKFPmqN0AAxwcm9kdWN0QXJpdHlzcQB+AAxBoADEdAAGZXF1YWxzc3EAfgAMU0v47nQAC3F1aWNrRW5jb2Rlc3EAfgAMN8K953QABmlzU2FmZXNxAH4ADC88IZp0AAxhc0luc3RhbmNlT2ZzcQB+AAxpKtqXdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAyRfZE6dAAMc3luY2hyb25pemVkc3EAfgAMM4LdmHQABGxlZnRzcQB+AAxrzypPdAANJGlzSW5zdGFuY2VPZnNxAH4ADORtY5h0AAZ0dXBsZWRzcQB+AAwi6dTHdAAHSHVmZm1hbnNxAH4ADK8z4NV0AAhjYW5FcXVhbHNxAH4ADNy4Kpl0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADBeR9DV0AARtYWluc3EAfgAM6aMAh3QABGNoYXJzcQB+AAx3ne3SdAAGZGVjb2Rlc3EAfgAMkvT5NHQABExlYWZzcQB+AAzUn/iQdAAIY29kZUJpdHNzcQB+AAwEhdRkdAANcHJvZHVjdFByZWZpeHNxAH4ADLh+4sl0AAV1bnRpbHNxAH4ADNaygLF0AApmcmVuY2hDb2Rlc3EAfgAMUPm6bnQACW5vdGlmeUFsbHNxAH4ADOrGGQ50AAVjaGFyc3NxAH4ADA+FzAV0AAxpc0luc3RhbmNlT2ZzcQB+AAw0cbMjdAAGPGluaXQ+c3EAfgAMXoR4jXQABnF1ZWVuc3NxAH4ADNvuXRl0AAVhcHBseXNxAH4ADP5M6690AA1kZWNvZGVkU2VjcmV0c3EAfgAMyQOHN3QAAj09c3EAfgAMPoBchnQABWNsb25lc3EAfgAMGBck4XQAD21lcmdlQ29kZVRhYmxlc3NxAH4ADAgq9UB0AAV0aW1lc3NxAH4ADE+OUht0AAYkaW5pdCRzcQB+AAzzaPoydAAHY29tYmluZXNxAH4ADJombp50AA5jb3B5JGRlZmF1bHQkM3NxAH4ADL4+j3J0AARjb3B5c3EAfgAM87deP3QABE1haW5zcQB+AAxf3ETIdAAMc3RyaW5nMkNoYXJzc3EAfgAMEIE9R3QACHRvU3RyaW5nc3EAfgAMFhzdEXQABGFyZ3NzcQB+AAyOhw/ndAAJc2luZ2xldG9uc3EAfgAMWdKWQnQAAiE9c3EAfgAMhQZzoHQACGdldENsYXNzc3EAfgAMGgvawXQACUNvZGVUYWJsZXNxAH4ADEdg+N90AA5jcmVhdGVDb2RlVHJlZXNxAH4ADEXyQTZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADJJNcjp0AARGb3Jrc3EAfgAMJcagknQAA0JpdHNxAH4ADGQ57t10AAJuZXNxAH4ADEPAr8h0ABNtYWtlT3JkZXJlZExlYWZMaXN0c3EAfgAM4KmO8XQACENvZGVUcmVlc3EAfgAMn+bFgnQAAmVxc3EAfgAMcZFgEXQAB2NvbnZlcnRzcQB+AAxeHu7VdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMGa0uBnQABXJpZ2h0c3EAfgAMEUWa8HQAC2RlbGF5ZWRJbml0c3EAfgAMlSK6AnQAAiMjc3EAfgAMC8ladnQACGZpbmFsaXplc3EAfgAMVSXXHnQADnByb2R1Y3RFbGVtZW50c3EAfgAMrB+vwHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ao3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADnBhdG1hdC5IdWZmbWFudXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgC7c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AKNMAAlpbmhlcml0ZWRxAH4Ao0wAB3BhcmVudHNxAH4Ao3hxAH4AwHNxAH4Au3VxAH4AngAAAABzcQB+ALt1cQB+AJ4AAAAAc3EAfgC7dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC/dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC/c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDYdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDZc3EAfgDMdAADQW55c3EAfgDQc3EAfgDTdXEAfgDWAAAAAnNxAH4A2HQABXNjYWxhcQB+AN9zcQB+AKBxAH4ArXVxAH4ArgAAAABzcQB+ALAAdAALcGF0bWF0Lk1haW51cQB+ALMAAAAAcQB+ALd1cQB+ALkAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3EAfgC7cQB+AMFzcQB+ALtzcQB+AMNzcQB+ALt1cQB+AJ4AAAAAc3EAfgC7dXEAfgCeAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCkcQB+AK11cQB+AK4AAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgD3eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNxAH4AzHQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3EAfgDQc3EAfgDTdXEAfgDWAAAAAnNxAH4A2HEAfgDmcQB+AN9zcQB+ALAAcQB+AD11cQB+ALMAAAAAc3EAfgDMdAAEVW5pdHEAfgEGdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4A93hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AtnQABVBsYWlucQB+AHFzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AM1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AL9zcQB+AMx0AAVBcnJheXEAfgEGdXEAfgDKAAAAAXNxAH4AzHQABlN0cmluZ3NxAH4A0HNxAH4A03VxAH4A1gAAAANzcQB+ANhxAH4A23NxAH4A2HEAfgDdcQB+AN9zcQB+ALt1cQB+AMoAAAAEc3EAfgDMdAADQXBwcQB+AQZzcQB+AMx0AAtEZWxheWVkSW5pdHEAfgEGc3EAfgDMcQB+AM9xAH4BI3NxAH4AzHEAfgDhcQB+AQZ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZwYXRtYXRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWU0xKrgdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQvgZiOGuAyHKLdmQw06vfRtTDD7g==
+external apis:
+0 items
+source infos:
+2 items
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/ngocvo/scala/priciple/week4/patmat/src/main/scala/patmat/Huffman.scala -> 
+AAAAAAAAAAA=
+compilations:
+70 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZQ9lwNV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRBG5DZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRBIECR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRBpPLZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRBqLrJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRCgsx91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRLcYA91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRLhgDt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRLkrrt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRLl2oZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRLmtU91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRLnck11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRLoNaB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRLpFXh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRLqKZ11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRLrwAF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRL2EKt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRMKPDZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRMMa3x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRMNB3x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRMNp/l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRMPRJ51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRVnXsB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRVsrDJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRVtjN91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRVyrm91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRV8bP91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRV9CAx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRWI3fV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRWJ88x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRWK1oB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRWMRM51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRWPLHp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRWSfid1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRW8lNR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRXEBS51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+36 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRXEcYZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+37 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRXFNK91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+38 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRXJj5N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+39 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRXRL6R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+40 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRXSLXF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+41 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRXVpCR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+42 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRXWqqx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+43 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRXXZYp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+44 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRXiYAN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+45 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRYLzZN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+46 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRgAPyZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+47 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRgBg0B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+48 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRgDrFJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+49 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRgFGp51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+50 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRgJVip1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+51 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRgJy511cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+52 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRgKZoZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+53 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRgLQdt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+54 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRgMCSF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+55 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRgMoFN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+56 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRgNDM51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+57 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRgNV/h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+58 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRgOFrp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+59 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRgS3cR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+60 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRgTHQ51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+61 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZSlGqPp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+62 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZSlIvBh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+63 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZS4I2Mp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+64 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZS4JXXN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+65 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZS4K9g51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+66 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZTSyOaJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+67 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZTSzMcB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+68 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZTS6tbh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+69 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZTTEquB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uZ29jdm8vc2NhbGEvcHJpY2lwbGUvd2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
